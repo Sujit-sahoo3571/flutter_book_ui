@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "covername": "Love ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":2,
+        "covername": "Horror ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":3,
+        "covername": "Crimes ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":4,
+        "covername": "Adventures ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":5,
+        "covername": "Seduction ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":6,
+        "covername": "Thriller ",
+        "coverimage":"assets/images/logo.png"
+    },
+    {
+        "id":7,
+        "covername": "Billionare ",
+        "coverimage":"assets/images/logo.png"
+    }
+]
